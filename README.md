@@ -67,8 +67,9 @@ import FunnelChart from 'react-native-funnel-chart';
 
 ```
 ## Supported By
-
+<picture>
 <a href="https://chzapps.com"><img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/master/example/chzapps.png" heigth="100" width="100"/></a>
 
 
 <a href="https://www.lookingsoft.com"><img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/master/example/lk_soft.png" heigth="100" width="100"/></a>
+ </picture>
