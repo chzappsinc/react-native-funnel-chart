@@ -6,12 +6,13 @@
 
 <img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/master/example/RN-FNNEL-CHART-TEST.png" style="border-radius:30px;"/>
 
-
 ## Installation
 
 ```bash
 
 yarn add react-native-funnel-chart
+
+npm i react-native-funnel-chart
 
 ```
 
