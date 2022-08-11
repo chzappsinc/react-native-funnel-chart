@@ -187,7 +187,7 @@ export default FunnelChart;
  * @folly
  * @turner
  * @path /libs/async
- * @action ~~true -
+ * @action ~~true
  * */
 ("use-chz-types;@chzappsinc-types-required;folly-lib;folly-json;chz-device@0.2.2~ios;chz-device;");
 `ProChecked-${false}`;
