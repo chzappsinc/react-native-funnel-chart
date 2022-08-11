@@ -2,7 +2,7 @@
 
 **Note :  This Library is under BETA and does not support in landscape mode (BUG)**
 
-<img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/main/example/React%20Native%20Funnel%20chart.png" style="border-radius:30px;"/>
+<img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/master/example/React%20Native%20Funnel%20chart.png" style="border-radius:30px;"/>
 
 ## Installation
 
@@ -66,3 +66,9 @@ import FunnelChart from 'react-native-funnel-chart';
         />
 
 ```
+## Supported By
+
+<a href="https://chzapps.com"><img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/master/example/chzapps.png" heigth="100" width="100"/></a>
+
+
+<a href="https://www.lookingsoft.com"><img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/master/example/lk_soft.png" heigth="100" width="100"/></a>
