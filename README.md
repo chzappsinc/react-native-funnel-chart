@@ -4,6 +4,9 @@
 
 <img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/master/example/React%20Native%20Funnel%20chart.png" style="border-radius:30px;"/>
 
+<img src="https://raw.githubusercontent.com/chzappsinc/react-native-funnel-chart/master/example/RN-FNNEL-CHART-TEST.png" style="border-radius:30px;"/>
+
+
 ## Installation
 
 ```bash
