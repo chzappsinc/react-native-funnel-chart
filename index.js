@@ -7,7 +7,7 @@ import * as Animatable from "react-native-animatable";
  *
  * @see https://chzapps.com
  *
- * @see https://chzappsinc.github.io/react-native-funnel-chart-chz
+ * @see https://chzappsinc.github.io/react-native-funnel-chart
  *
  * @version 1.0.0
  *
@@ -29,7 +29,7 @@ const FunnelChart = ({
 
   useEffect(() => {
     ReleaseData();
-  }, []);
+  }, [data]);
 
   const ReleaseData = () => {
     if (data) {
